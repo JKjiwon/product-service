@@ -8,7 +8,7 @@ plugins {
 
 group = 'com.athenhub'
 version = '0.0.1-SNAPSHOT'
-description = 'project-interface'
+description = 'product-service'
 
 java {
     toolchain {
@@ -70,7 +70,7 @@ dependencies {
 
 
     // common
-    implementation 'com.athenhub:common-mvc:1.1.0'
+    implementation 'com.athenhub:common-mvc:1.1.1'
 
     // lombok
     compileOnly 'org.projectlombok:lombok'
