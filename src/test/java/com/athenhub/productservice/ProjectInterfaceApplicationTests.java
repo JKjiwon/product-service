@@ -1,10 +1,10 @@
-package com.athenhub.projectinterface;
+package com.athenhub.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectInterfaceApplicationTests {
+class ProductServiceApplicationTests {
 
   @Test
   void contextLoads() {}
